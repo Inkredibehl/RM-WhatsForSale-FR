@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<WDYS.CommandShowSettlementGoods>What's for sale?</WDYS.CommandShowSettlementGoods>
+<WDYS.CommandShowSettlementGoodsDesc>Afficher ce que cette colonie vend.</WDYS.CommandShowSettlementGoodsDesc>
+<WDYS.WindowTitle>{0} stock commercial actuel ({1} avant le réapprovisionnement)</WDYS.WindowTitle>
+<WDYS.BeforeRestock>{0} avant le réapprovisionnement</WDYS.BeforeRestock>
+<WDYS.HaveXSilver>{0} a {1} argent</WDYS.HaveXSilver>
+<WDYS.SearchBar>Rechercher dans le stock commercial : </WDYS.SearchBar>
+<WDYS.MarketValue>Valeur marchande. Cela ne prend pas en compte l'impact potentiel du prix de votre colon.</WDYS.MarketValue>
+<WDYS.Pawn>{0} est votre meilleur négociateur ({1} amélioration). Le prix sera affiché en fonction de cela.</WDYS.Pawn>
+<WDYS.NeedTradeConsoleUI>Vous avez besoin d'une console de commerce alimentée pour recevoir des informations sur le stock commercial</WDYS.NeedTradeConsoleUI>
+<WDYS.Pawns>Pions</WDYS.Pawns>
+<WDYS.ResourcesRaw>Ressources brutes</WDYS.ResourcesRaw>
+<WDYS.Manufactured>Manufacturé</WDYS.Manufactured>
+<WDYS.Apparel>Vêtements</WDYS.Apparel>
+<WDYS.Weapons>Armes</WDYS.Weapons>
+<WDYS.Items>Articles</WDYS.Items>
+<WDYS.Buildings>Bâtiments</WDYS.Buildings>
+<WDYS.Other>Autre</WDYS.Other>
+<WDYS.Foods>Nourritures</WDYS.Foods>
+<WDYS.Quit>Fermer</WDYS.Quit>
+<WDYS.Reset>Réinitialiser</WDYS.Reset>
+<WDYS.ResetToolTip>Réinitialiser la fenêtre.\n(Ceci n'est pas fait automatiquement pour des raisons de performance)</WDYS.ResetToolTip>
+<WDYS>Qu'est-ce qui est à vendre ?</WDYS>
+
+<WDYS.OnlyIndustrial>Seules les factions de niveau technologique industriel ou supérieur peuvent vous envoyer des informations sur leur stock commercial</WDYS.OnlyIndustrial>
+<WDYS.NeedTradeConsole>Vous avez besoin d'une console de commerce pour recevoir des informations sur le stock commercial</WDYS.NeedTradeConsole>
+<WDYS.GlobalStockTab>Onglet de recherche globale</WDYS.GlobalStockTab>
+<WDYS.MaxDays>Recevez uniquement le stock commercial des colonies à {0} tuiles ou moins de la colonie/caravane du négociateur</WDYS.MaxDays>
+<WDYS.NoTrader>Pas de négociants disponibles</WDYS.NoTrader>
+<WDYS.TilesAway>{0} est à {1} tuiles</WDYS.TilesAway>
+<WDYS.EnableMaxTile>Activer le filtrage de distance</WDYS.EnableMaxTile>
+<WDYS.NoPath>Impossible à atteindre à pied.</WDYS.NoPath>
+<WDYS.OnlyShowReachable>Afficher uniquement le stock commercial des colonies accessibles</WDYS.OnlyShowReachable>
+</LanguageData>
